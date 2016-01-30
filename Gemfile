@@ -1,5 +1,8 @@
 source 'https://rubygems.org'
 
+# Add multiple marker functionality
+gem 'gmaps4rails'
+
 gem 'geocoder'
 gem 'figaro'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
